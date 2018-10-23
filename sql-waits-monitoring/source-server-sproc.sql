@@ -3,6 +3,8 @@
   2. Schedule this sproc as a SQL Agent job that runs every minute.
   3. The loop inside the sproc is infinite.
   4. Pause between samples is 15 seconds - change it if you need data with different granularity.
+  
+  PS. Thanks to https://www.sqlskills.com/about/glenn-berry/ for the query.
 */
 USE [DBA] --local database for SQL monitoring that is always available and doesn't belong to the AlwaysOn availability group
 GO
