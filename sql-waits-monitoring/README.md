@@ -20,3 +20,4 @@ We do not have any alerts triggered based on this data. Not all deviations are p
 One glance at it is enough to say that a database cluster is healthy or having issues.
 <p>This is very simple but heavily used solution.</h3>
 </p>
+<p><img style="border: 1px solid black;" src="https://github.com/alekseybochkov/infostart-publications/blob/master/sql-waits-monitoring/dashboard.png?raw=true" alt=""/> </p>
