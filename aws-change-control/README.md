@@ -15,4 +15,4 @@
 <p>Security group changes:</p>
 <p><img src="//raw.githubusercontent.com/alekseybochkov/publications/master/aws-change-control/security-group-changes.png" alt="Security group changes"></p>
 <p>Volumes attached:</p>
-<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/master/aws-change-control/volume-attached.png" alt="Volumes attached"></p>
+<p><img src="//github.com/alekseybochkov/publications/blob/master/aws-change-control/volume-attached.png" alt="Volumes attached"></p>
