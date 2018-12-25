@@ -9,12 +9,10 @@
 </ul>
 <h2>Examples:</h2>
 <p>Server has been stopped:</p>
-<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/aws-change-control/aws-change-control/server-has-been-stopped.png" alt="Server has been stopped"></p>
+<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/master/aws-change-control/server-has-been-stopped.png" alt="Server has been stopped"></p>
 <p>Instance type has been changed:</p>
-<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/aws-change-control/aws-change-control/instance-type-has-been-changed.png" alt="Instance type has been changed"></p>
+<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/master/aws-change-control/instance-type-has-been-changed.png" alt="Instance type has been changed"></p>
 <p>Security group changes:</p>
-<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/aws-change-control/aws-change-control/security-group-changes.png" alt="Security group changes"></p>
+<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/master/aws-change-control/security-group-changes.png" alt="Security group changes"></p>
 <p>Volumes attached:</p>
-<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/aws-change-control/aws-change-control/volume-attached.png" alt="Volumes attached"></p>
-
-
+<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/master/aws-change-control/volume-attached.png" alt="Volumes attached"></p>
