@@ -7,3 +7,6 @@
   <li>Example includes change control for instances and security groups only.</li>
   <li>Objects are filtered by "Owner: DBA" tag.</li>
 </ul>
+Examples:
+<p>Server has been stopped:</p>
+<p><img src="//raw.githubusercontent.com/alekseybochkov/publications/aws-change-control/aws-change-control/server-has-been-stopped.png" alt="Server has been stopped"></p>
